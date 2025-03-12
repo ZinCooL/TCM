@@ -34,6 +34,7 @@
 .contact-info p {
     margin-bottom: 15px;
     line-height: 1.6;
+    text-decoration: none;
 }
 
 .contact-form {
